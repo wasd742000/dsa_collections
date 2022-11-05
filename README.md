@@ -7,6 +7,5 @@
 ## Algorithm
 |||
 |-|-|
-|Sorting|Linear<br>-Bubble<br>-Selection<br>-Insertion<br>
-Logarithmic<br>-Merge<br>-Quick<br>|
+|Sorting|Linear<br>-Bubble<br>-Selection<br>-Insertion<br>Logarithmic<br>-Merge<br>-Quick<br>|
 |Searching|Linear search/ Sentinel linear search<br>Binary search (recursive and non-recursive)|
